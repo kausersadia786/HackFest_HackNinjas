@@ -1,5 +1,5 @@
 # HackFest_HackNinjas
-This is the hack source code created by team Hack Ninjas in HackFest-2020, annual Hackathon in IIT(ISM)-Dhanbad.
+This is the hack source code created by team Hack Ninjas in HackFest-2019, annual Hackathon in IIT(ISM)-Dhanbad.
 
 We created a Hand Gesture controlled automatic room prototype using Computer vision and Raspberry Pi for Hardware-Software interaction.
 
